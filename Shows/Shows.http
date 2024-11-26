@@ -1,0 +1,6 @@
+@Shows_HostAddress = http://localhost:5270
+
+GET {{Shows_HostAddress}}/Shows/Details?name=test
+Accept: application/json
+
+###
